@@ -1,0 +1,8 @@
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\bin\Debug\RouteInfoProvider.exe.config
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\bin\Debug\RouteInfoProvider.exe
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\bin\Debug\RouteInfoProvider.pdb
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\obj\Debug\RouteInfoProvider.csprojAssemblyReference.cache
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\obj\Debug\RouteInfoProvider.csproj.CoreCompileInputs.cache
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\obj\Debug\RouteInfoProvider.exe
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\obj\Debug\RouteInfoProvider.pdb
+C:\Users\nm250140\source\repos\RouteInfoProvider\RouteInfoProvider\bin\Debug\config\SourceMap.xml
